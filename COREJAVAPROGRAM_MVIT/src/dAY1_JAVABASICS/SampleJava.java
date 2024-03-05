@@ -11,7 +11,7 @@ public class SampleJava {
 		System.out.println("enter the a and b values:");
 		a=s.nextInt();
 		b=s.nextInt();
-		c=a+b;
+		c=a-b;
        System.out.println("hello world");
        System.out.println("addition of a="+a+" and b="+b+" is :"+c);
 	}
